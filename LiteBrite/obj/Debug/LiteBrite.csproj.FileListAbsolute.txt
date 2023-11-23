@@ -1,0 +1,166 @@
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\App.g.cs
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe.config
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\bin\Debug\LiteBrite.pdb
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.lref
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\LiteBrite.g.resources
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\LiteBrite.Properties.Resources.resources
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.GenerateResource.Cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\LiteBrite.exe
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\LiteBrite.pdb
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.g.cs
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.baml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite\LiteBrite\obj\Debug\View\Dictionary.baml
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe.config
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.pdb
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csprojResolveAssemblyReference.cache
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.g.cs
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\App.g.cs
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.cache
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.lref
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\View\Dictionary.baml
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.baml
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.g.resources
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.Properties.Resources.resources
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.GenerateResource.Cache
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.CoreCompileInputs.cache
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.exe
+D:\FANSHAWE FILES\5TH TERM\LITEBRITE\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.pdb
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe.config
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.pdb
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.g.cs
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\App.g.cs
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.lref
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\View\Dictionary.baml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.baml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.g.resources
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.Properties.Resources.resources
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.GenerateResource.Cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.exe
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\lite_brite_logo\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.pdb
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe.config
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.pdb
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.g.cs
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\App.g.cs
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.cache
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.lref
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\View\Dictionary.baml
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.baml
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.g.resources
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.Properties.Resources.resources
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.GenerateResource.Cache
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.CoreCompileInputs.cache
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.exe
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.pdb
+D:\FANSHAWE FILES\5TH TERM\lite_brite_logo2\updatedLite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe.config
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\bin\Debug\LiteBrite.pdb
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.g.cs
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\App.g.cs
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.lref
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\View\Dictionary.baml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.baml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\LiteBrite.g.resources
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\LiteBrite.Properties.Resources.resources
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.GenerateResource.Cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\LiteBrite.exe
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\LiteBrite.pdb
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\View\about.g.cs
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\LiteBrite april 04\LiteBrite\LiteBrite\obj\Debug\View\about.baml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe.config
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.pdb
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\View\About.g.cs
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.g.cs
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\App.g.cs
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.lref
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\View\About.baml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\View\Dictionary.baml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.baml
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.g.resources
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.Properties.Resources.resources
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.GenerateResource.Cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.exe
+C:\Users\Rob\Documents\fanshawe5Semester\GUI\project3\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.pdb
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe.config
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\bin\Debug\LiteBrite.pdb
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\bin\Debug\Newtonsoft.Json.dll
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\bin\Debug\Newtonsoft.Json.xml
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csprojResolveAssemblyReference.cache
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\View\About.g.cs
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.g.cs
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\App.g.cs
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.cache
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.lref
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\View\About.baml
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\View\Dictionary.baml
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.baml
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.g.resources
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.Properties.Resources.resources
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.GenerateResource.Cache
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.CoreCompileInputs.cache
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.exe
+D:\FANSHAWE FILES\5TH TERM\last lite\LiteBrite\LiteBrite\obj\Debug\LiteBrite.pdb
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe.config
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\bin\Debug\LiteBrite.pdb
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\bin\Debug\Newtonsoft.Json.dll
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\bin\Debug\Newtonsoft.Json.xml
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csprojResolveAssemblyReference.cache
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\View\About.g.cs
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.g.cs
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\App.g.cs
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.cache
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.lref
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\View\About.baml
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\View\Dictionary.baml
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.baml
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.g.resources
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.Properties.Resources.resources
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.GenerateResource.Cache
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.CoreCompileInputs.cache
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.exe
+D:\FANSHAWE FILES\5TH TERM\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.pdb
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe.config
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\bin\Debug\LiteBrite.exe
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\bin\Debug\LiteBrite.pdb
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\View\About.g.cs
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.g.cs
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\App.g.cs
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.cache
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite_MarkupCompile.lref
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\View\About.baml
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\View\Dictionary.baml
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\View\MainWindow.baml
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.g.resources
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.exe
+C:\Users\pedro\OneDrive\Documentos\4_ANTONIO\PROJECTS\last lite_with_pics\LiteBrite\LiteBrite\obj\Debug\LiteBrite.pdb
